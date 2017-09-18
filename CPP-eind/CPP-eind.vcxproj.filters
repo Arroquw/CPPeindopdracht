@@ -21,6 +21,12 @@
     <ClInclude Include="AthleticGroup.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Filemanager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Interfacing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AthleticGroup.cpp">
@@ -30,6 +36,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Filemanager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Interfacing.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

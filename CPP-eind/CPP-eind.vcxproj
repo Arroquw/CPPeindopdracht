@@ -148,10 +148,14 @@
   <ItemGroup>
     <ClInclude Include="AthleticGroup.h" />
     <ClInclude Include="Athletics.h" />
+    <ClInclude Include="Filemanager.h" />
+    <ClInclude Include="Interfacing.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AthleticGroup.cpp" />
     <ClCompile Include="Athletics.cpp" />
+    <ClCompile Include="Filemanager.cpp" />
+    <ClCompile Include="Interfacing.cpp" />
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>

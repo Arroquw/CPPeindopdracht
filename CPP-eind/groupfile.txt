@@ -1,9 +1,24 @@
-Vrijdagmiddag
-	Anthonie van Leeuwenhoek
-	Christiaan Huygens
-	Ada Lovelace
-	Dorothy Hodgkin
-
+5
 Zaterdagochtend
-	Hugo de Groot
-	Rosalind Franklin
+4
+3
+2
+5
+1
+Donderdagavond
+5
+0
+1
+2
+5
+4
+Zondagmiddag
+4
+0
+1
+2
+4
+Woensdagmiddag
+0
+Dinsdagochtend
+0
